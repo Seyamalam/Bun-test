@@ -1,0 +1,7 @@
+{
+  "name": "bun-core-backend",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run src/server.ts"
+  }
+}
